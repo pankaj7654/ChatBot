@@ -27,9 +27,6 @@ conversation = [
     "Hey",
     "Hello",
     "Hii",
-    "Hello dear"
-    "Hi",
-    "Hello dear"
     "Hello dude",
     "How are you",
     "I am fine, and you",
