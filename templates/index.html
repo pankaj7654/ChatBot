@@ -9,20 +9,29 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
 </head>
 
 <body>
+
   <!-- partial:index.partial.html -->
+  <div></div>
   <section class="msger">
-    <header class="msger-header">
-      <div class="msger-header-title">
-        <i class=""></i>Chatbot <i class=""></i>
-      </div>
-    </header>
+    <div class="msger-header-title">
+      <span class="msger-header " id="close"
+          onclick="this.parentNode.parentNode.parentNode.removeChild(this.parentNode.parentNode); return false;">ChatBot<span
+              class="mr-1">X</span>
+              </span>
+              </div>
 
     <main class="msger-chat">
       <div class="msg left-msg">
-        <div class="msg-img" style="background-image: url(https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif)"></div>
+        <div class="msg-img"
+          style="background-image: url(https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif)">
+        </div>
 
         <div class="msg-bubble">
           <div class="msg-info">
@@ -31,7 +40,7 @@
           </div>
 
           <div class="msg-text">
-            Hi, welcome to Chatbot! Go ahead and send me a message. 😄
+            Hey This is SiriusBot. How may i help you ?
           </div>
         </div>
       </div>
@@ -119,6 +128,21 @@
 
 
   </script>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 
 </body>
 
