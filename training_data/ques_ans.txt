@@ -1,0 +1,27 @@
+What is chatbot?
+At the most basic level, a chatbot is a computer program that simulates and processes human conversation (either written or spoken), allowing humans to interact with digital devices as if they were communicating with a real person. Chatbots can be as simple as rudimentary programs that answer a simple query with a single-line response, or as sophisticated as digital assistants that learn and evolve to deliver increasing levels of personalization as they gather and process information.
+
+How do chatbots work?
+Driven by AI, automated rules, natural-language processing (NLP), and machine learning (ML), chatbots process data to deliver responses to requests of all kinds.
+
+What is artificial antelligence?
+Artificial intelligence is computer science technology that emphasizes creating intelligent machine that can mimic human behavior. Here Intelligent machines can be defined as the machine that can behave like a human, think like a human, and also capable of decision making. It is made up of two words, "Artificial" and "Intelligence," which means the "man-made thinking ability."
+
+Why do we need artificial antelligence?
+The goal of Artificial intelligence is to create intelligent machines that can mimic human behavior. We need AI for today's world to solve complex problems, make our lives more smoothly by automating the routine work, saving the manpower, and to perform many more other tasks.
+
+Give some real-world applications of AI.
+Google Search Engine: When we start writing something on the google search engine, we immediately get the relevant recommendations from google, and this is because of different AI technologies.
+Ridesharing Applications: Different ride-sharing applications such as Uber uses AI and machine learning to determine the type of ride, minimize the time once the car is hailed by the user, price of the ride, etc.
+Spam Filters in Email: The AI is also used for email spam filtering so that you can get the important and relevant emails only in your inbox. As per the studies, Gmail successfully filters 99.9% of spam mails.
+
+What are the types of AI?
+Weak AI or Narrow AI: Weak AI is capable of performing some dedicated tasks with intelligence. Siri is an example of Weak AI.
+General AI: The intelligent machines that can perform any intellectual task with efficiency as a human.
+Strong AI: It is the hypothetical concept that involves the machine that will be better than humans and will surpass human intelligence.
+
+What are the types of Machine Learning?
+Machine Learning can be mainly divided into three types:
+Supervised Learning: Supervised learning is a type of Machine learning in which the machine needs external supervision to learn from data. The supervised learning models are trained using the labeled dataset. Regression and Classification are the two main problems that can be solved with Supervised Machine Learning.
+Unsupervised Learning: It is a type of machine learning in which the machine does not need any external supervision to learn from the data, hence called unsupervised learning. The unsupervised models can be trained using the unlabelled dataset. These are used to solve the Association and Clustering problems.
+Reinforcement Learning: In Reinforcement learning, an agent interacts with its environment by producing actions, and learn with the help of feedback. The feedback is given to the agent in the form of rewards, such as for each good action, he gets a positive reward, and for each bad action, he gets a negative reward. There is no supervision provided to the agent. Q-Learning algorithm is used in reinforcement learning.
